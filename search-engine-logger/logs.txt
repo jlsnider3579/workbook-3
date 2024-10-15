@@ -1,0 +1,3 @@
+Application launched
+User searched for: Java
+User exited the application
